@@ -1,0 +1,6 @@
+Scenario,Description,n_samples,n_valid,valid_pct,MFR_pct,RegMBR_pct,FSMBR_pct,dMFR_vs_S1,dRegMBR_vs_S1,dFSMBR_vs_S1
+S1,Baseline (published run),148,132,89.19,53.5,6.4,40.1,0.0,0.0,0.0
+S2,Screening relaxed (reactive Cl included),158,141,89.24,53.85,6.65,39.5,0.35,0.25,-0.6
+S3,Tracer pair d2H + Cl (measured EM d2H),148,130,87.84,58.37,6.27,35.36,4.86,-0.13,-4.74
+S4,End-members shifted +1 SD,148,119,80.41,60.88,5.47,33.65,7.38,-0.94,-6.44
+S5,End-members shifted -1 SD,148,138,93.24,48.13,7.03,44.84,-5.37,0.63,4.74

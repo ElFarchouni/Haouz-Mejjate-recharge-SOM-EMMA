@@ -1,0 +1,12 @@
+Local Evaporation Line (LEL), Figure 10a
+=============================================
+Classification: d-excess < 8.0 permil AND d18O > -8.0 permil
+Evaporated samples (n)   : 57
+Non-evaporated samples(n): 285
+LEL slope                : 6.40  ± 0.55 (SE)
+LEL intercept            : -7.43  ± 3.24 (SE)
+R-squared                : 0.713
+p-value                  : 1.49e-16
+LEL equation             : d2H = 6.40 * d18O − 7.43
+Un-evaporated source (LEL n LMWL): d18O = -13.05 permil, d2H = -90.9 permil
+Interpretation: slope < 8 confirms kinetic fractionation by evaporation.
