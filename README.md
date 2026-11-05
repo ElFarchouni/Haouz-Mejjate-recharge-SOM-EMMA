@@ -30,7 +30,7 @@ Each notebook ends with a check of its key numbers against the article (sample c
 
 Not produced by the notebooks: Figures 1, 2, 12 and 13 of the article (maps and conceptual model, drawn in QGIS and Adobe Illustrator; Figure 12 uses `outputs/tables/EMMA_results.xlsx`) and Figure SM13 (needs the tritium data).
 
-The Piper and Gibbs diagrams use WQChartPy 0.1.10. The Gibbs diagram is drawn with an adapted copy of its Gibbs module (`scripts/gibbs_som1.py`: label "Evaporation Dominance" instead of "Seawater", repositioned labels).
+The Piper and Gibbs diagrams use WQChartPy 0.1.10 (installed with the requirements). The Gibbs diagram is drawn with an adapted copy of its Gibbs module, `scripts/gibbs_som1.py` (label "Evaporation Dominance" instead of "Seawater", repositioned labels). Nothing has to be copied into the WQChartPy installation: `03_SOM_figures.ipynb` imports the module directly from the `scripts/` folder of this repository, which only needs WQChartPy to be installed.
 
 ## Licences
 
