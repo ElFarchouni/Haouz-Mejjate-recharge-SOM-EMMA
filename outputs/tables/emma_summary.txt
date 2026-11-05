@@ -1,0 +1,12 @@
+EMMA summary (05_EMMA/01_EMMA.ipynb)
+Na/Cl screening on the isotope dataset: 214 screened (Cl- > 100 mg/L and Na/Cl < 0.7), 202 conservative, 12 reactive
+Mixing targets: 148 wells; valid 132 (89.2 %), invalid 16
+Means over valid wells: MFR 53.5 %, regional MBR 6.4 %, front-slope MBR 40.1 %, total MBR 46.5 %
+Monte Carlo SE: 5.1, 0.7, 5.3 %
+Dominant component among valid wells: {'MFR': 88, 'Front-slope MBR': 39, 'Regional MBR': 5}
+Evaporated wells (02_isotopes class): 12 among valid, 2 among invalid
+
+EM1 (MFR): n=5 (S312, S313, S302, S299, S441); d18O -9.07 ± 0.27; Cl 6.3 ± 2.9 mg/L; d2H -57.5 ± 2.8; d-excess 15.0 (range 13.4 to 17.4)
+EM2 (Regional MBR): n=3 (S424, S460, S413); d18O -4.87 ± 0.82; Cl 1969.0 ± 180.5 mg/L; d2H -33.9 ± 6.4; d-excess 5.1 (range -0.1 to 11.6)
+EM3 (Front-slope MBR): n=5 (S388, S389, S294, S372, S352); d18O -4.70 ± 0.29; Cl 11.6 ± 10.4 mg/L; d2H -25.3 ± 4.6; d-excess 12.3 (range 10.2 to 15.1)
+Panel (b) with measured d2H: 130 of 148 wells inside the triangle (87.8 %)

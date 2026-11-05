@@ -1,0 +1,17 @@
+Recharge altitude from d18O on the Local Altitudinal Line (notebook 04_isotopes/02_isotopes)
+Estimate: all non-evaporated groundwater (wells + springs, d-excess >= 8 permil); springs and wells also given separately.
+Groundwater n = 196 (d18O -9.37 to -4.80, median -7.49 permil)
+Springs     n = 53 (d18O -8.80 to -5.20, median -7.56 permil)
+Wells       n = 143 (d18O -9.37 to -4.80, median -7.48 permil)
+
+LAL (Rhoujjati et al., 2021): d18O = -0.0027 * Z + 0.0
+   groundwater    n=196  min  1778  Q1  2392  median  2774  Q3  2926  max  3470 m
+   with altitude  n=115  min  1805  Q1  2358  median  2685  Q3  2891  max  3470 m
+   springs        n= 53  min  1924  Q1  2333  median  2800  Q3  2967  max  3259 m
+   wells          n=143  min  1778  Q1  2440  median  2771  Q3  2901  max  3470 m
+
+LAL alternative (Ait Brahim et al., 2016): d18O = -0.0018 * Z - 4.0
+   groundwater    n=196  min   444  Q1  1366  median  1939  Q3  2167  max  2983 m
+   with altitude  n=115  min   485  Q1  1315  median  1806  Q3  2114  max  2983 m
+   springs        n= 53  min   664  Q1  1278  median  1978  Q3  2228  max  2667 m
+   wells          n=143  min   444  Q1  1438  median  1935  Q3  2130  max  2983 m

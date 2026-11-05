@@ -1,0 +1,83 @@
+cff-version: 1.2.0
+message: "If you use these data or this code, please cite both the article and the dataset."
+title: "Data and code for: Groundwater recharge mechanisms in the Haouz-Mejjate aquifer (Morocco): insights from environmental tracers and self-organizing maps"
+type: dataset
+version: "1.1"
+date-released: "2026-11-05"
+doi: 10.5281/zenodo.23419569
+repository-code: "https://github.com/ElFarchouni/Haouz-Mejjate-recharge-SOM-EMMA"
+license: GPL-3.0
+authors:
+  - family-names: El Farchouni
+    given-names: Abderrahman
+    orcid: "https://orcid.org/0009-0002-1986-4557"
+    affiliation: "International Water Research Institute, Mohammed VI Polytechnic University, Morocco; DAGRI, University of Florence, Italy"
+  - family-names: Hadri
+    given-names: Abdessamad
+    affiliation: "International Water Research Institute, Mohammed VI Polytechnic University, Morocco"
+  - family-names: Ait Brahim
+    given-names: Yassine
+    affiliation: "International Water Research Institute, Mohammed VI Polytechnic University, Morocco"
+  - family-names: Hssaisoune
+    given-names: Mohammed
+    affiliation: "Ibn Zohr University, Agadir, Morocco"
+  - family-names: Bouchaou
+    given-names: Lhoussaine
+    affiliation: "International Water Research Institute, Mohammed VI Polytechnic University, Morocco; Ibn Zohr University, Agadir, Morocco"
+  - family-names: Ouarani
+    given-names: Mohamed
+    affiliation: "International Water Research Institute, Mohammed VI Polytechnic University, Morocco"
+  - family-names: Miftah
+    given-names: Meryem
+    affiliation: "International Water Research Institute, Mohammed VI Polytechnic University, Morocco; University of Pavia, Italy"
+  - family-names: Bouimouass
+    given-names: Houssne
+    affiliation: "Center for Remote Sensing Application, Mohammed VI Polytechnic University, Morocco"
+  - family-names: Castelli
+    given-names: Giulio
+    affiliation: "DAGRI, University of Florence, Italy"
+  - family-names: Bresci
+    given-names: Elena
+    affiliation: "DAGRI, University of Florence, Italy"
+  - family-names: Penna
+    given-names: Daniele
+    affiliation: "DAGRI, University of Florence, Italy; Oregon State University, USA"
+  - family-names: Kchikach
+    given-names: Azzouz
+    affiliation: "Geology and Sustainable Mining Institute, Mohammed VI Polytechnic University, Morocco; Cadi Ayyad University, Morocco"
+  - family-names: Fakir
+    given-names: Younes
+    affiliation: "Center for Remote Sensing Application, Mohammed VI Polytechnic University, Morocco; Cadi Ayyad University, Marrakech, Morocco"
+preferred-citation:
+  type: article
+  title: "Groundwater recharge mechanisms in the Haouz-Mejjate aquifer (Morocco): Insights from environmental tracers and self-organizing maps"
+  journal: "Groundwater for Sustainable Development"
+  year: 2026
+  doi: 10.1016/j.gsd.2026.101706
+  authors:
+    - family-names: El Farchouni
+      given-names: Abderrahman
+    - family-names: Hadri
+      given-names: Abdessamad
+    - family-names: Ait Brahim
+      given-names: Yassine
+    - family-names: Hssaisoune
+      given-names: Mohammed
+    - family-names: Bouchaou
+      given-names: Lhoussaine
+    - family-names: Ouarani
+      given-names: Mohamed
+    - family-names: Miftah
+      given-names: Meryem
+    - family-names: Bouimouass
+      given-names: Houssne
+    - family-names: Castelli
+      given-names: Giulio
+    - family-names: Bresci
+      given-names: Elena
+    - family-names: Penna
+      given-names: Daniele
+    - family-names: Kchikach
+      given-names: Azzouz
+    - family-names: Fakir
+      given-names: Younes
